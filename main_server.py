@@ -57,6 +57,7 @@ mcp = FastMCP(
         "Never recommend tokens with safety_score < 40 or is_honeypot = true."
     ),
 )
+app = mcp.get_asgi_app()
 
 
 # ── Register DeFiLlama tools ──────────────────────────────────────────────
