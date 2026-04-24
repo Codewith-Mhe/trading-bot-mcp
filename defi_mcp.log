@@ -1,0 +1,19 @@
+2026-04-24 11:53:13,694 [INFO] httpx: HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2026-04-24 12:02:04,287 [INFO] httpx: HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2026-04-24 12:02:04,309 [INFO] __main__: [OK] Ollama: Ollama OK — model 'llama3' ready
+2026-04-24 12:02:04,312 [INFO] __main__: ✅ DeFi MCP Server ready
+   Tools: 31 | Resources: 5 | Prompts: 4
+   Event Bus: active (TRADE_REQUEST -> SAFETY_RESULT | ALPHA_FOUND)
+2026-04-24 12:02:04,320 [INFO] __main__: [READY] stdio transport
+2026-04-24 12:11:14,723 [INFO] httpx: HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2026-04-24 12:11:14,736 [INFO] __main__: [OK] Ollama: Ollama OK — model 'llama3' ready
+2026-04-24 12:11:14,738 [INFO] __main__: ✅ DeFi MCP Server ready
+   Tools: 31 | Resources: 5 | Prompts: 4
+   Event Bus: active (TRADE_REQUEST -> SAFETY_RESULT | ALPHA_FOUND)
+2026-04-24 12:11:14,749 [INFO] __main__: [HTTP] on 0.0.0.0:8000
+2026-04-24 12:14:34,076 [INFO] httpx: HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2026-04-24 12:14:34,095 [INFO] __main__: [OK] Ollama: Ollama OK — model 'llama3' ready
+2026-04-24 12:14:34,096 [INFO] __main__: ✅ DeFi MCP Server ready
+   Tools: 31 | Resources: 5 | Prompts: 4
+   Event Bus: active (TRADE_REQUEST -> SAFETY_RESULT | ALPHA_FOUND)
+2026-04-24 12:16:42,204 [ERROR] cli: Dev server failed
